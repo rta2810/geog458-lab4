@@ -3,7 +3,7 @@
 ## Introduction
 This web map visualizes four custom-generated tile sets displaying the population aged 65 and older in King County, WA. The map utilizes Mapbox GL JS to display raster tiles generated via Python.
 
-[**Web Map**](https://rta2810.github.io/geog458-lab4/map.html)
+## Web Map: [**URL**](https://rta2810.github.io/geog458-lab4/map.html)
 
 ## Tile Sets Description
 1.  **Monochrome Basemap:** A clean, greyscale basemap designed for context.
